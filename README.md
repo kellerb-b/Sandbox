@@ -1,2 +1,2 @@
 # Sandbox
-Sandbox for merge and branch practice
+Sandbox for branching and merging practice
